@@ -1,0 +1,20 @@
+Introdução a Algoritmos
+1. Construa um algoritmo que calcule o valor do comprimento da circunferência, a partir do valor do raio.
+2. Desenhe um algoritmo que receba dois números e exiba o resultado da sua soma.
+3. Desenhe um algoritmo que receba dois números e mostre a soma, a subtração, a multiplicação e a divisão dos números.
+4. Desenhe um algoritmo para determinar o consumo médio de um automóvel, considerando que a distância total percorrida e o total de combustível gasto são fornecidos.
+5. Elabore um algoritmo que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que esse vendedor ganha 15% de comissão
+sobre suas vendas efetuadas, faça que o algoritmo informe o seu nome, o salário fixo e salário no final do mês.
+6. Crie um algoritmo que leia o nome de um aluno e as notas das três provas que ele obteve no semestre, com pesos 2, 3 e 5. No final, deve-se informar o nome do aluno e a sua média
+ ponderada.
+7. Desenhe um algoritmo que leia uma temperatura em graus Celsius e a apresente convertida em graus Fahrenheit. A fórmula de conversão é: F = (9 * C + 160) / 5, sendo F a temperatura em
+graus Fahrenheit e C, a temperatura em graus Celsius.
+8. Elabore um algoritmo que efetue a apresentação do valor da conversão em real (R$) de um valor lido em dólar (US$). O algoritmo deverá solicitar o valor da cotação do dólar e também a quantidade de dólares disponíveis com o usuário.
+9. Faça um algoritmo que calcule o rendimento de um depósito após um mês de aplicação.
+Considere fixa a taxa de juros de remuneração, correspondente a 0,50% ao mês.
+10. Faça um algoritmo que receba um número e mostre uma mensagem caso este seja maior que 10.
+11. Crie um algoritmo que leia dois valores inteiros distintos e informe qual é o maior.
+12. Faça um algoritmo que receba um número e diga se este está no intervalo entre 100 e 200.
+13. [Resolvido] Desenhe um algoritmo que mostre na tela a tabuada do 3.
+14. Desenhe um algoritmo que imprima dez vezes na tela do computador a frase “FATEC”.
+15. Desenhe um algoritmo que, por dez vezes, receba um número digitado pelo usuário e o compare com o valor “5”; em caso de acerto do usuário, o algoritmo finaliza-se.
