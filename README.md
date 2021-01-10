@@ -3,7 +3,7 @@
 Challenges completed by me to test and train my JavaScript concepts
 
 -    [x] Introduction Algorithms
--    [ ] Decision Structure
+-    [x] Decision Structure
 -    [ ] Repetition Structure
 -    [ ] Function
 -    [ ] Arrays

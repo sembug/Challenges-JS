@@ -1,0 +1,23 @@
+Estrutura de Decisão
+1. Escreva um programa que resolva o seguinte problema: uma cópia “xerox” custa R$ 0,25 por
+folha, mas acima de 100 folhas esse valor cai para R$ 0,20 por unidade. Dado o total de cópias,
+informe o valor a ser pago.
+2. Escreva um programa que informe a categoria de um jogador de futebol, considerando sua
+idade: infantil (até 13 anos), juvenil (até 17 anos) ou sênior (acima de 17 anos).
+3. Escreva um programa que diga qual é o maior de dois números distintos.
+4. Escreva um programa que teste uma senha.
+5. Escreva um programa que calcule a média aritmética de três números digitados pelo usuário.
+6. Escreva um programa que leia três números do teclado e os imprima na tela na ordem
+inversa da entrada.
+7. Escreva um programa que calcule a área de um círculo de raio r , testando se o valor do raio é
+menor que zero.
+8. Escreva um programa que receba um número inteiro do teclado e diga se ele é par. Dica: Um número é par se o resto da divisão dele por 2 for zero.
+9. Escreva um programa que calcule a velocidade de queda de um corpo em função do tempo,
+ partindo da velocidade zero. Dica: Use equações de aceleração da Física.
+10. Escreva um programa que calcule as raízes da equação do 2o  grau (ax^2 + bx + c); os valores de a, b e c são fornecidos pelo usuário.
+11. Escreva um programa que calcule o consumo médio de um automóvel; são fornecidos a distância total percorrida e o total de combustível gasto.
+12. Escreva um programa que leia o nome de um aluno e as notas que ele obteve nas três provas do semestre. No final, o programa deve informar o nome do aluno e a sua média (aritmética).
+13. Escreva um programa que receba um número e mostre uma mensagem caso este seja maior que 10.
+14. Escreva um programa que receba um número e diga se ele está no intervalo entre 100 e 200.
+15. Escreva um programa que conceda um aumento de 10% ao salário dos funcionários de uma empresa, os quais recebem até R$1.000,00.
+16. Desenhe um algoritmo que calcule a amplitude total (AT) de uma série de cinco números, considerando que AT = maior valor – menor valor.
